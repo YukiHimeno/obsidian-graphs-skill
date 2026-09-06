@@ -1,0 +1,3 @@
+interface:
+  display_name: "Obsidian Graphs"
+  short_description: "Create interactive Graphs-plugin charts in Obsidian notes"
